@@ -1,0 +1,15 @@
+Question,Answer,Keywords,Category
+what is your name,I am a friendly support bot.,name;identity,About
+how are you,"I'm doing well, thank you for asking!",how;you;doing;feeling,General
+what services do you offer,"I can help with general queries, product information, and troubleshooting.",services;offer;capabilities;can do,Services
+service hours,"We are open 9 AM to 5 PM, Monday to Friday.",hours;open;working time;schedule,Services
+hello,Hello from the KB! How can I assist?,hello,General
+hi,Hi there from the KB! What can I do for you?,hi;hey,General
+bye,Goodbye from the KB! See you soon.,goodbye;bye;see you,General
+goodbye,Farewell from the KB! Have a nice day.,farewell,General
+what is the return policy?,You can return items within 30 days with a valid receipt.,return;policy;refund;exchange,Support
+how to reset password,"To reset your password, go to the login page and click 'Forgot Password'.",password;reset;forgot;account recovery,Account
+contact support,You can contact support via email at support@example.com or call us at 1-800-123-4567.,contact;support;help;phone;email;assistance,Contact
+tell me a joke,Why don't scientists trust atoms? Because they make up everything!,joke;funny;laugh,Fun
+product information,"Our flagship product is the 'AwesomeWidget', known for its durability and ease of use. More details are on our website.",product;info;widget;awesome widget;details,Products
+shipping options,We offer standard (5-7 business days) and express shipping (1-2 business days).,shipping;delivery;options;,Shipping
